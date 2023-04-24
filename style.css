@@ -181,12 +181,22 @@ nav,
 
 .header {
   position: absolute;
+  display: flex;
+  flex-direction: row;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
   max-width: 1000px;
   padding: 0 30px;
+}
+
+.pfp {
+  border-radius: 50%;
+  scale: 75%;
+  transform: translate(10%, 20%);
+  z-index: 3;
+  outline: 7px solid black;
 }
 
 .header__para {
@@ -629,6 +639,7 @@ footer {
 */
 .shape {
   position: fixed;
+  margin-left: 5%;
 }
 .shape--0 {
   top: 15vh;

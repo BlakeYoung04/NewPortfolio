@@ -1,3 +1,7 @@
-<svg width="20" height="20" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M272.5 150C272.5 217.655 217.655 272.5 150 272.5C82.3451 272.5 27.5 217.655 27.5 150C27.5 82.3451 82.3451 27.5 150 27.5C217.655 27.5 272.5 82.3451 272.5 150Z" stroke="#ff328f" stroke-width="55"/>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="25" height="25">
+	<title>circle-svg</title>
+	<style>
+		.s0 { fill: none;stroke: #0000ff;stroke-width: 55 } 
+	</style>
+	<path id="Layer" class="s0" d="m272.5 150c0 67.7-54.8 122.5-122.5 122.5-67.7 0-122.5-54.8-122.5-122.5 0-67.7 54.8-122.5 122.5-122.5 67.7 0 122.5 54.8 122.5 122.5z"/>
 </svg>
