@@ -134,6 +134,7 @@ nav,
   opacity: 1;
   visibility: visible;
   transition: all 600ms 800ms;
+  margin-top: 50px;
 }
 
 .modal--open nav,
@@ -194,6 +195,7 @@ nav,
 .pfp {
   border-radius: 50%;
   scale: 75%;
+  width: 100%;
   transform: translate(10%, 20%);
   z-index: 3;
   outline: 7px solid black;
